@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hi, I'm Sarah 
 I am a passionate tech learner currently building my skills in DevOps and system administration. I enjoy working with Linux, Git, and web servers like Nginx.
 
@@ -27,3 +28,6 @@ I am a passionate tech learner currently building my skills in DevOps and system
 ## 🔗 Get In Touch
 - Connect with me on [Twitter] (https://twitter.com/onasanya_sarah).
 - connect with me on [LinkedIn] (https://www.linkedin.com/in/onasanya-sarah-6987b3392?utm_source=share_via&utm_content=profile&utm_medium=member_android).
+=======
+# devops-class-tasks-screenshots
+>>>>>>> 514dc9da0630dc8c125831dea3d2f8296f6862d5
